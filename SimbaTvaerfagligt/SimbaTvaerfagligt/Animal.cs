@@ -7,7 +7,7 @@ namespace SimbaTvaerfagligt
     [XmlInclude(typeof(Lion))]
     [Serializable]
 
-    //Tester github
+    //redigerer tekst "tester github"
     public abstract class Animal
     {      
         public virtual string Name { get; }
