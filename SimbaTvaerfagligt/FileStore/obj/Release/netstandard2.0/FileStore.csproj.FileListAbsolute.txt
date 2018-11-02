@@ -1,0 +1,9 @@
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\bin\Release\netstandard2.0\FileStore.deps.json
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\bin\Release\netstandard2.0\FileStore.dll
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\bin\Release\netstandard2.0\FileStore.pdb
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\obj\Release\netstandard2.0\FileStore.csprojAssemblyReference.cache
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\obj\Release\netstandard2.0\FileStore.csproj.CoreCompileInputs.cache
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\obj\Release\netstandard2.0\FileStore.AssemblyInfoInputs.cache
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\obj\Release\netstandard2.0\FileStore.AssemblyInfo.cs
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\obj\Release\netstandard2.0\FileStore.dll
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\obj\Release\netstandard2.0\FileStore.pdb

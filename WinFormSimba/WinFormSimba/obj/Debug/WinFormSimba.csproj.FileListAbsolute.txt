@@ -1,0 +1,108 @@
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.exe.config
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.exe
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.pdb
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.Properties.Resources.resources
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.GenerateResource.cache
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.CoreCompileInputs.cache
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.exe
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.pdb
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.exe
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.pdb
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.exe.config
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csprojAssemblyReference.cache
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.CopyComplete
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.Resource1.resources
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.MainForm1.resources
+C:\Datamatikeruddannelsen\Projekter\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.exe.config
+C:\Datamatikeruddannelsen\Projekter\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.exe
+C:\Datamatikeruddannelsen\Projekter\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.pdb
+C:\Datamatikeruddannelsen\Projekter\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.exe
+C:\Datamatikeruddannelsen\Projekter\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.pdb
+C:\Datamatikeruddannelsen\Projekter\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.exe.config
+C:\Datamatikeruddannelsen\Projekter\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csprojAssemblyReference.cache
+C:\Datamatikeruddannelsen\Projekter\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.MainForm1.resources
+C:\Datamatikeruddannelsen\Projekter\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.Properties.Resources.resources
+C:\Datamatikeruddannelsen\Projekter\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.Resource1.resources
+C:\Datamatikeruddannelsen\Projekter\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.GenerateResource.cache
+C:\Datamatikeruddannelsen\Projekter\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.CoreCompileInputs.cache
+C:\Datamatikeruddannelsen\Projekter\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.CopyComplete
+C:\Datamatikeruddannelsen\Projekter\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.exe
+C:\Datamatikeruddannelsen\Projekter\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.pdb
+C:\Users\ljako\OneDrive\Opgaver 2 Sem\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.exe.config
+C:\Users\ljako\OneDrive\Opgaver 2 Sem\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.exe
+C:\Users\ljako\OneDrive\Opgaver 2 Sem\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.pdb
+C:\Users\ljako\OneDrive\Opgaver 2 Sem\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.exe
+C:\Users\ljako\OneDrive\Opgaver 2 Sem\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.pdb
+C:\Users\ljako\OneDrive\Opgaver 2 Sem\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.exe.config
+C:\Users\ljako\OneDrive\Opgaver 2 Sem\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csprojAssemblyReference.cache
+C:\Users\ljako\OneDrive\Opgaver 2 Sem\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.MainForm1.resources
+C:\Users\ljako\OneDrive\Opgaver 2 Sem\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.Properties.Resources.resources
+C:\Users\ljako\OneDrive\Opgaver 2 Sem\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.Resource1.resources
+C:\Users\ljako\OneDrive\Opgaver 2 Sem\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.GenerateResource.cache
+C:\Users\ljako\OneDrive\Opgaver 2 Sem\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.CoreCompileInputs.cache
+C:\Users\ljako\OneDrive\Opgaver 2 Sem\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.CopyComplete
+C:\Users\ljako\OneDrive\Opgaver 2 Sem\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.exe
+C:\Users\ljako\OneDrive\Opgaver 2 Sem\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.pdb
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.exe.config
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.exe
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.pdb
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.exe
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.pdb
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.exe.config
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csprojAssemblyReference.cache
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.MainForm1.resources
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.Properties.Resources.resources
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.Resource1.resources
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.GenerateResource.cache
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.CoreCompileInputs.cache
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.CopyComplete
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.exe
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.pdb
+C:\Users\ljako\Desktop\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.exe.config
+C:\Users\ljako\Desktop\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.exe
+C:\Users\ljako\Desktop\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.pdb
+C:\Users\ljako\Desktop\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.exe
+C:\Users\ljako\Desktop\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.pdb
+C:\Users\ljako\Desktop\PROJEKT SIMBA\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.exe.config
+C:\Users\ljako\Desktop\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csprojAssemblyReference.cache
+C:\Users\ljako\Desktop\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.MainForm1.resources
+C:\Users\ljako\Desktop\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.Properties.Resources.resources
+C:\Users\ljako\Desktop\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.Resource1.resources
+C:\Users\ljako\Desktop\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.GenerateResource.cache
+C:\Users\ljako\Desktop\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.CoreCompileInputs.cache
+C:\Users\ljako\Desktop\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.CopyComplete
+C:\Users\ljako\Desktop\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.exe
+C:\Users\ljako\Desktop\PROJEKT SIMBA\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.pdb
+C:\Users\ljako\Desktop\AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.exe.config
+C:\Users\ljako\Desktop\AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.exe
+C:\Users\ljako\Desktop\AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.pdb
+C:\Users\ljako\Desktop\AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.exe
+C:\Users\ljako\Desktop\AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.pdb
+C:\Users\ljako\Desktop\AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.exe.config
+C:\Users\ljako\Desktop\AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csprojAssemblyReference.cache
+C:\Users\ljako\Desktop\AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.MainForm1.resources
+C:\Users\ljako\Desktop\AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.Properties.Resources.resources
+C:\Users\ljako\Desktop\AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.Resource1.resources
+C:\Users\ljako\Desktop\AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.GenerateResource.cache
+C:\Users\ljako\Desktop\AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.CoreCompileInputs.cache
+C:\Users\ljako\Desktop\AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.CopyComplete
+C:\Users\ljako\Desktop\AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.exe
+C:\Users\ljako\Desktop\AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.pdb
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csprojAssemblyReference.cache
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.exe
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.pdb
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\Redigeret -AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.exe.config
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\Redigeret -AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.exe
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\Redigeret -AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\bin\Debug\WinFormSimba.pdb
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\Redigeret -AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.exe
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\Redigeret -AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.pdb
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\Redigeret -AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\bin\Debug\SimbaTvaerfagligt.exe.config
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\Redigeret -AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csprojAssemblyReference.cache
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\Redigeret -AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.MainForm1.resources
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\Redigeret -AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.Properties.Resources.resources
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\Redigeret -AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.Resource1.resources
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\Redigeret -AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.GenerateResource.cache
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\Redigeret -AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.CoreCompileInputs.cache
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\Redigeret -AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.csproj.CopyComplete
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\Redigeret -AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.exe
+C:\Users\ljako\OneDrive\SIMBAPROJEKT\Redigeret -AFL-PROJEKT SIMBA - Lisa\WinFormSimba\WinFormSimba\obj\Debug\WinFormSimba.pdb

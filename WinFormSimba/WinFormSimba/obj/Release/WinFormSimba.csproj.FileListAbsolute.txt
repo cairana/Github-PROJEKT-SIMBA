@@ -1,0 +1,9 @@
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\bin\Release\WinFormSimba.exe.config
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\bin\Release\WinFormSimba.exe
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\bin\Release\WinFormSimba.pdb
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\obj\Release\WinFormSimba.csprojAssemblyReference.cache
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\obj\Release\WinFormSimba.Properties.Resources.resources
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\obj\Release\WinFormSimba.csproj.GenerateResource.cache
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\obj\Release\WinFormSimba.csproj.CoreCompileInputs.cache
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\obj\Release\WinFormSimba.exe
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\WinFormSimba\WinFormSimba\obj\Release\WinFormSimba.pdb

@@ -1,0 +1,10 @@
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\bin\Debug\netstandard2.0\FileStore.deps.json
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\bin\Debug\netstandard2.0\FileStore.dll
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\bin\Debug\netstandard2.0\FileStore.pdb
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\obj\Debug\netstandard2.0\FileStore.csproj.CoreCompileInputs.cache
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\obj\Debug\netstandard2.0\FileStore.AssemblyInfoInputs.cache
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\obj\Debug\netstandard2.0\FileStore.AssemblyInfo.cs
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\obj\Debug\netstandard2.0\FileStore.dll
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\obj\Debug\netstandard2.0\FileStore.pdb
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\obj\Debug\netstandard2.0\FileStore.Resource1.resources
+C:\Datamatikeruddannelsen\Programmering\Opgaver 2 Sem\SimbaTvaerfagligt\FileStore\obj\Debug\netstandard2.0\FileStore.csproj.GenerateResource.cache
